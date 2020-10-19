@@ -1,0 +1,1 @@
+divide and conquer refers to a class of algorithmic techniques in which one breaks the input into several parts solves the problem in each part recursively and then combines the solutions
